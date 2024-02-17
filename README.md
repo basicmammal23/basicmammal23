@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, welcome to my GitHub page. Find my code below.
+- 😄 Pronouns: she/her
+- test font
+test font
 
 <!--
 **basicmammal23/basicmammal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
