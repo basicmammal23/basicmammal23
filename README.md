@@ -1,6 +1,9 @@
+![business-girl-developer-character-illustration-vector](https://github.com/basicmammal23/basicmammal23/assets/153872761/20fbcc14-e8ea-48c1-b592-230a597ffa74)
+
 ### Hi, welcome to my GitHub page. Find my code below.
-- 😄 Pronouns: she/her
-- test font
+😄 Pronouns: she/her
+
+test font
 test font
 
 <!--
